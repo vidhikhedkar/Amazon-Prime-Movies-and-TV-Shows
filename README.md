@@ -1,3 +1,16 @@
 # Amazon-Prime-Movies-and-TV-Shows
 # Tableau Dashboard
-The Tableau dashboard provides an overview of Amazon Prime Video content, with several key visualizations:  Total shows by country:  A world map showing the distribution of available content by country.  Top 12 ratings:  A circular chart displaying the distribution of ratings, with the 13+ rating having 2,117 votes.  
+The provided Tableau dashboard offers a visual analysis of Amazon Prime movies and TV shows, presenting data across several key dimensions:
+Total Shows by Country:
+A world map highlights the distribution of content availability by geographical region.
+Top 10 Genre:
+A bar chart ranks the most prevalent genres, with "Drama" leading at 986 titles.
+Shows by Type:
+A donut chart indicates the proportion of movies (80.82%) and TV shows (19.18%) in the dataset.
+Shows by Release Year and Type:
+A combined line and bar chart tracks the volume of movies and TV shows released over time.
+Top Rating:
+A radial chart displays the distribution of ratings.
+Movie Details:
+For the selected title "1 Night in San Diego," the dashboard provides the cast, a brief description, genre (Comedy), release year (2020), and duration (86 min). [Image 1]
+This interactive dashboard allows users to explore trends, content distribution, and details of specific titles within the Amazon Prime library.
