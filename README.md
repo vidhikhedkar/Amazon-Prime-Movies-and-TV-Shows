@@ -12,5 +12,5 @@ A combined line and bar chart tracks the volume of movies and TV shows released 
 Top Rating:
 A radial chart displays the distribution of ratings.
 Movie Details:
-For the selected title "1 Night in San Diego," the dashboard provides the cast, a brief description, genre (Comedy), release year (2020), and duration (86 min). [Image 1]
+For the selected title "1 Night in San Diego," the dashboard provides the cast, a brief description, genre (Comedy), release year (2020), and duration (86 min). 
 This interactive dashboard allows users to explore trends, content distribution, and details of specific titles within the Amazon Prime library.
